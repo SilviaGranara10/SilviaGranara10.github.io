@@ -3,8 +3,12 @@
     border-radius: 3px;
 }
 .fondo{
-    background-color: #FEE140;
-background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
+    background-color: #FFDEE9;
+background-image: linear-gradient(0deg, #FFDEE9 21%, #B5FFFC 54%, #ffffff 99%, #ffffff 100%);
 
+
+}
+.iconos{
+   text-decoration:none;
 
 }
