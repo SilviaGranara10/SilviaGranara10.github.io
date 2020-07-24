@@ -1,10 +1,12 @@
-.avatar{
-    width: 100px;
-    border-radius: 3px;
+.avatar {
+  width: 100px;
+  border-radius: 3px;
 }
-.fondo{
-    background-color: #08AEEA;
-    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
-    
+.fondo {
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+}
 
+html {
+  scroll-behavior: smooth;
 }
